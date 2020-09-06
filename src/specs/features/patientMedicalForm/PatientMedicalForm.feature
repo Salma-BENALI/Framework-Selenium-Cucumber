@@ -1,6 +1,6 @@
 @patientMedicalForm
 Feature: remplir formulaire  - PatientMedical
-   ETQ patient je souhaite rempir ce formulaire
+   i want to fill in the patient form
 
   @form
   Scenario: remplir formulaire  - PatientMedical
