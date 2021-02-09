@@ -1,0 +1,5 @@
+2021-02-09 01:00:05,633 - com.e2eTest.automation.util.AbstractPage - INFO - Open Application Orange
+2021-02-09 01:00:08,596 - com.e2eTest.automation.util.AbstractPage - INFO - Set Username
+2021-02-09 01:00:08,855 - com.e2eTest.automation.util.AbstractPage - INFO - Set Password
+2021-02-09 01:00:09,112 - com.e2eTest.automation.util.AbstractPage - INFO - Click login button
+2021-02-09 01:00:11,522 - com.e2eTest.automation.util.AbstractPage - INFO - Show Page Admin

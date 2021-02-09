@@ -13,7 +13,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 10386978300,
+  "duration": 5424159600,
   "status": "passed"
 });
 formatter.scenario({
@@ -59,39 +59,39 @@ formatter.match({
   "location": "AuthentificationStepDef.openApplication()"
 });
 formatter.result({
-  "duration": 2497636500,
+  "duration": 3116103700,
   "status": "passed"
 });
 formatter.match({
   "location": "AuthentificationStepDef.setUsername()"
 });
 formatter.result({
-  "duration": 182743500,
+  "duration": 244423800,
   "status": "passed"
 });
 formatter.match({
   "location": "AuthentificationStepDef.setPassword()"
 });
 formatter.result({
-  "duration": 234156400,
+  "duration": 254500800,
   "status": "passed"
 });
 formatter.match({
   "location": "AuthentificationStepDef.clickLoginButton()"
 });
 formatter.result({
-  "duration": 2397349600,
+  "duration": 2406265800,
   "status": "passed"
 });
 formatter.match({
   "location": "AuthentificationStepDef.showPageAdmin()"
 });
 formatter.result({
-  "duration": 85567000,
+  "duration": 59983700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 2495845600,
+  "duration": 2030413900,
   "status": "passed"
 });
 });

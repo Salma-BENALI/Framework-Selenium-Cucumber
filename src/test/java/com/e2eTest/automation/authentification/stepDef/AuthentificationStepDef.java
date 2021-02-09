@@ -53,7 +53,7 @@ public class AuthentificationStepDef extends CommonMethods{
 		logger.info("Show Page Admin");
 		String wlc=AuthentificationPage.welcome.getText();
 		//Assert.assertTrue(wlc.contains("Welcome"));
-		Assert.assertEquals("Welcome Linda", wlc);
+		Assert.assertEquals("Welcome Paul", wlc);
 	}
 
 }
